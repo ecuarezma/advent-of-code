@@ -1,4 +1,3 @@
-export const coordinates = `
 13432   99527
 85422   64009
 79131   11256
@@ -999,4 +998,3 @@ export const coordinates = `
 82366   20539
 73748   82211
 32593   18922
-`;
